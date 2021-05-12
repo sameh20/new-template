@@ -26,7 +26,7 @@ position: relative;
 height: 650px;
 width: 100%;
 display: flex;
-background-image: url("E:/web development/project1/img/bg.jpg");
+background-image: url(../img/bg.jpg);
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
