@@ -26,7 +26,7 @@ position: relative;
 height: 650px;
 width: 100%;
 display: flex;
-background-image: url("/img/bg.jpg");
+background-image: url("E:/web development/project1/img/bg.jpg");
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
@@ -191,7 +191,7 @@ width: 100%;}
 /*section 3*/
 .section3{
     position: relative;
-    background-color: rgb(2, 65, 2);
+    background-color: rgb(41, 49, 41);
     text-align: center;
     height: 160px;
 }
@@ -248,7 +248,7 @@ width: 100%;}
 footer{
     text-align: center;
     text-align: center;
-    background-color: rgb(1, 41, 26);
+    background-color: rgb(41, 49, 41);
     color: #fff;
 }
 footer ul{
@@ -274,6 +274,8 @@ footer p{
 }
 .list li a i{
     font-size: 30px;
+    color: rgb(180, 178, 178);
+}
+.list li a i:hover{
     color: #fff;
-
 }
